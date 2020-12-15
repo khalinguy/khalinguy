@@ -3,9 +3,8 @@
 ## I'm a tech-lover and an amateur ukulele-ist 😄
 - 🔭 I’m currently working with Data Networking as a Software Developer
 - 🌱 I’m currently studying Machine Learning, Data Science & AI at [Aalto University][aalto]
-- 🙌 I’m looking to make my hands dirty in web development projects
-- 🥅 2020 Goals: Learn new techs and build more user-friendly web apps
-- ⚡ Fun fact: I play basketball 🏀 and a gym rat 🐀
+- ✨ I’m looking to make my hands dirty in data analytics and machine learning
+- ⚡ Fun fact: I love playing table-tennis 🏓 and ukulele 🎶
 
 ### Connect with me:
 
