@@ -14,16 +14,11 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Linh's Github Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalinguy&layout=compact" />
-
-<br />
-
-<br />
-<br />
-<br />
+<img alt="Linh's Github Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalinguy&layout=compact" />
 
 ---
-<img align="left" alt="Dung's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khalinguy&show_icons=true&hide_border=true&count_private=true" />
+
+<img alt="Dung's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khalinguy&show_icons=true&hide_border=true&count_private=true" />
 <br />
 
 
