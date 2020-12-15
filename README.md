@@ -19,12 +19,10 @@
 <br />
 
 ---
-
+<br />
 <br />
 <img align="left" alt="Dung's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khalinguy&show_icons=true&hide_border=true&count_private=true" />
 <br />
-
----
 
 
 [aalto]: https://www.aalto.fi/en/study-options/masters-programme-in-computer-communication-and-information-sciences-machine-learning
