@@ -1,4 +1,4 @@
-### Welcome to my cave! I'm Linh 👋
+## Welcome to my cave! I'm Linh 👋
 
 ## I'm a tech-lover and an amateur ukulele-ist 😄
 - 🔭 I’m currently working with Data Networking as a Software Developer
@@ -18,9 +18,11 @@
 
 <br />
 
+<br />
+<br />
+<br />
+
 ---
-<br />
-<br />
 <img align="left" alt="Dung's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khalinguy&show_icons=true&hide_border=true&count_private=true" />
 <br />
 
