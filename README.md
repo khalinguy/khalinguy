@@ -21,7 +21,7 @@
 ---
 
 <br />
-<img align="left" alt="Dung's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dungvo0111&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Dung's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khalinguy&show_icons=true&hide_border=true&count_private=true" />
 <br />
 
 ---
