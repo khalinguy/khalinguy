@@ -1,7 +1,7 @@
 ## Welcome to my cave! I'm Linh 👋
 
 ## I'm a tech-lover and an amateur ukulele-ist 😄
-- 🔭 I’m currently working with Data Networking as a Software Developer
+- 🔭 I’m currently working as a Java Fullstack Software Developer
 - 🌱 I’m currently studying Machine Learning, Data Science & AI at [Aalto University][aalto]
 - ✨ I’m looking to make my hands dirty in data analytics and machine learning
 - ⚡ Fun fact: I love playing table-tennis 🏓 and ukulele 🎶
